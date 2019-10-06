@@ -51,3 +51,84 @@ D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Newtonsoft.Json.xml
 D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\obj\Debug\FoodRecognizingApp.csprojResolveAssemblyReference.cache
 D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\obj\Debug\FoodRecognizingApp.dll
 D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\obj\Debug\FoodRecognizingApp.pdb
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Modules.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.SQLite.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Wpf.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Dynamic.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.Metadata.dll
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.xml
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Modules.xml
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.SQLite.xml
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Wpf.xml
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Dynamic.xml
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.xml
+D:\STUDIA\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.Metadata.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\ApplicationInsights.config
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\csc.exe
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\System.Collections.Immutable.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\vbc.exe
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\VBCSCompiler.exe
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\roslyn\VBCSCompiler.exe.config
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\FoodRecognizingApp.dll.config
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\FoodRecognizingApp.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\FoodRecognizingApp.pdb
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Antlr3.Runtime.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Modules.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.SQLite.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Wpf.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.Agent.Intercept.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.DependencyCollector.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.Web.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.WindowsServer.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.ApplicationInsights.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Dynamic.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.Metadata.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Web.Infrastructure.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Newtonsoft.Json.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Helpers.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Mvc.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Optimization.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Razor.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.WebPages.Deployment.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.WebPages.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.WebPages.Razor.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\WebGrease.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Modules.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.SQLite.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\IronPython.Wpf.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.DependencyCollector.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.Web.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.AI.WindowsServer.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.ApplicationInsights.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Dynamic.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Microsoft.Scripting.Metadata.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Helpers.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Mvc.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Optimization.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.Razor.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.WebPages.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.WebPages.Deployment.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\System.Web.WebPages.Razor.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Antlr3.Runtime.pdb
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\bin\Newtonsoft.Json.xml
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\obj\Debug\FoodRecognizingApp.csprojResolveAssemblyReference.cache
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\obj\Debug\FoodRecognizingApp.dll
+D:\STUDIA\INZYNIERKA - GIT\dishRecognizer\FoodRecognizingApp\FoodRecognizingApp\obj\Debug\FoodRecognizingApp.pdb

@@ -1,14 +1,99 @@
-﻿@{
+﻿@model FoodRecognizingApp.Models.ModelsList
+@{
     ViewBag.Title = "Strona główna";
+}
+
+@{  
+    var imagePath = "";
+    if (Request.Files["photo"] != null)
+    {
+        imagePath = @"~/App_Data/" + Path.GetFileName(Request.Files["photo"].FileName);
+    }
 }
 
 <div>
     <h2 style="text-align:center">Wgraj zdjęcie na stronę, a my powiemy Ci, co to za potrawa.</h2>
     <br/><br/><br/><br/>
-    <input type="file" name="picture"/>
-    <br />
-    <button>WYŚLIJ</button>
-    <br /><br /><br /><br />
-    <label>Potrawa ze zdjęcia to:</label>
-    <input type="text"/>
+
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { enctype ="multipart/form-data"}))
+    {
+        <form id="form" method="post" enctype="multipart/form-data">
+            @Html.ValidationSummary(true)
+            
+            <div class="div-photo">
+                @if (imagePath != "")
+                {
+                    <img src="@imagePath" alt="Choose Image" asp-append-version="true"/>
+                }
+            </div>
+                
+            <label>WYBIERZ ZDJĘCIE: </label>
+            <input type="file" name="photo" required />
+            
+            <br />
+            <br />
+
+            @if (Model.models != null)
+            {
+                <table>
+                    <th>
+                        Wybierz modele, które chcesz przetestować:
+                    </th>
+                    <br />
+                    @foreach (var item in Model.models)
+                    {
+                        <tr>
+                            <td>
+                                @item.name
+                                @Html.RadioButtonFor(model => model.selected, @item.name)
+                            </td>
+                        </tr>
+                    }
+
+                    <tr>
+                        <td>
+                            Wszystkie
+                            @Html.RadioButtonFor(model => model.selected, "all")
+                        </td>
+                    </tr>
+                </table>
+            }
+            <input type="submit" name="WYŚLIJ"/>
+        </form>
+    }
+            <table>
+                @if (Model.results.Count > 0)
+                {
+                    <tr>
+                        Wyniki rozpoznania według poszczególnych sieci:
+                    </tr>
+
+                    if (Model.results.Count == 1)
+                    {
+                        <tr>
+                            <td>
+                                @Model.checkedModel.name :
+                            </td>
+                            <td>
+                                @Model.results.ElementAt(0);
+                            </td>
+                        </tr>
+                    }
+                    else
+                    {
+                        for (int i = 0; i < Model.models.Count; i++)
+                        {
+                            <tr>
+                                <td>
+                                    @Model.models.ElementAt(i)
+                                </td>
+                                <td>
+                                    @Model.results.ElementAt(i)
+                                </td>
+                            </tr>
+                        }
+                    }
+                }
+            </table>
+
 </div>
